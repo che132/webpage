@@ -1,0 +1,6 @@
+---
+title: "Welcome!"
+image: sweet_corn.jpg
+---
+
+![ ](sweet_corn.jpg)
