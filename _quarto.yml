@@ -9,8 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: jfm.qmd
+        text: Johnny Marr
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
@@ -20,7 +21,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
