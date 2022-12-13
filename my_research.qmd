@@ -1,0 +1,35 @@
+---
+title: "My research"
+authors: 
+  - Sergio Pérez-Limón
+date: "2022-10-30"
+categories: [news, music]
+---
+
+# My Research
+
+My research, in short words, is based in the use of interdisciplinary tools to study the genetic architecture of quantitative traits in crops using maize as my model organism. This phrase contains a lot of technicalities and big words, but allow me to elaborate a little bit more.
+
+# Why corn?
+
+Maize, or more commonly know as corn, is one of the most important crops in the world. According to [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL), in 2020, around 202 million hectares were planted with this crop around the world, producing approximately 1.1 billion of tons of this basic grain, a 52% and 53% more than rice and wheat respectively! So we can see the importance of maize for feeding the whole world.
+
+Because of its practical easy of pollination, large chromosomes, agronomic importance, large genetic diversity and the relevance of it's wild relatives, the teosintes, maize became a model organism to perform a wide range of investigations, including themes such as plant domestication, genome evolution, developmental physiology, epigenetics, pest resistance, heterosis, quantitative inheritance, and comparative genomics.
+
+https://pubmed.ncbi.nlm.nih.gov/20147033/ https://elifesciences.org/articles/05861
+
+Another thing about corn is that you can eat your mistakes in the field! hahaha.
+
+# What is a genetic architecture?
+
+When we start learning about genes in middle school, we always start with the work of Gregory Mendel on inheritance. By using peas (*Pisum sativum*) as his model organism, he perform crosses between different parental plants and studied the segregation of certain *characteristics,* like the color and shape of the peas in the offspring. From his observations, he was able to formulate the [Laws of Heredity](http://www.dnaftb.org/1/bio.html), that we tend to forget until we have to revisit his work in college or grad school.
+
+These *characteristics*, or observable traits in an individual are called **phenotypes**. The phenotypes are determined by its **genetic architecture**, environmental factors and an *interaction* between these two. The genetic architecture is the underlying genetic basis of a phenotype and depends on several factors, mainly in the number of genes affecting such phenotype, the different versions of that gene present in a population, the size of the gene effects and the interactions with each other and with the environment.
+
+The genetic architecture of different phenotype can be massively different between them. Qualitative phenotypes, for instance, can be classified in discrete classes; they tend to have simple inheritance patterns and simple genetic architectures, with just a couple of genes with big effect acting on them. Such is the case of the color of Mendel's peas: the difference in green and yellow color is governed by a single gene, [*sgr*](https://www.scientificamerican.com/article/gene-behind-mendels-green/). Quantitative traits, in the other hand, cannot be classified into discrete categories, and most of the time can take continuous values that can be described by a standard distribution. They tend to have complex genetic architectures, with hundreds or thousands of genes with medium and small acting on the phenotype. It might be worth to mention that several agronomic relevant phenotypes such as cold tolerance, nitrogen use efficiency, drought tolerance, phosphorus acquisition strategies, yield, flowering time and plant height are quantitative phenotyes.
+
+Unraveling the genetic architecture of quantitative traits requires the use of genetic and genomic tools, bioinformatic pipelines, statistical models, machine learning, field work mangement experience and many other interdisciplinary tools and skills that makes it a challenging but fun research topic.
+
+Thus far in my career as a developing scientist, I've been working in two main research topics: Unraveling the genetic architecture of local adaptation of maize landraces to the Mexican Highlands, and the genetic architecture of host response to arbuscular mycorrhizae colonization.
+
+I bet that when you think about corn, you picture a yellow slob with a lot of kernels, grown in an endless field in the Midwest of the US; but let me tell you something, corn is more cool than that.

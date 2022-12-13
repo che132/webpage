@@ -1,0 +1,20 @@
+---
+title: "My research"
+authors: 
+  - Sergio Pérez-Limón
+date: "2022-10-30"
+categories: [research, maize]
+---
+
+  I bet that when you think about corn, you always have in mind a yellow cob harvested from an endless corn field in some part of the Midwest of the USA, but you know? Corn is cooler than that. There are certain varieties, called landraces, that are locally grown in remarkably diverse environments by local people. These environments can range from cold and dry, to humid and hot, with good and bad soil, lots of rain or no rain at all, and yet, corn can grow and be productive in all of this diverse environments. With my research I try to understand how the landraces can adapt to different environmental conditions and use this knowledge to breed corn that can be more resilient in face of an unpredictable changing environment.
+
+In more technical terms, for my research I use a set of genetic, genomic, statistic and bioinformatic tools to study the genetic architecture of local adaptation in maize. 
+
+Landraces are dynamic populations, each with a unique identity shaped by biotic and abiotic stresses, crop management, seed handling, and consumer preferences. The sustained association of a given landrace population with a given locality results in local adaptation.
+
+![The 59 native landraces of maize in México, center of origin and domestication of this amazing crop. This image shows a scoop of the variery of shapes, color, size, shape and uses that maize can have. Obtained from https://www.biodiversidad.gob.mx/diversidad/alimentos/maices/razas-de-maiz](CMaices_mexicanos.jpg "Title: An elephant")
+
+Local adaptation is defined formally as superior performance of local varieties in their native environment vs nonlocal varieties. In the same way it is seen in wild populations, it is demonstrable by reciprocal transplantation experiments.
+
+Local adaptation can be described in the context of genotype × environment interaction (GEI), i.e. the degree to which the relative performance of a given variety compared with others depends on environmental conditions. 
+

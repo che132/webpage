@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "SPL Lab"
+  title: "SPL Webpage"
   navbar:
     left:
       - href: index.qmd
@@ -11,13 +11,18 @@ website:
       - about.qmd
       - href: jfm.qmd
         text: Johnny Marr
+      - href: my_research2.qmd
+        text: My research
+        
     right:
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/che132
       - icon: globe2
         href: https://orcid.org/0000-0002-1893-4325
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sergiopl/
+      - icon: google
+        href: https://scholar.google.com/citations?user=eXu97JkAAAAJ&hl=es
 
 format:
   html:
