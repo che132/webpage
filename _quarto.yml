@@ -8,11 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: jfm.qmd
-        text: Johnny Marr
       - href: my_research2.qmd
         text: My research
+      - href: jfm.qmd
+        text: Johnny Marr
+
         
     right:
       - icon: github
